@@ -7,5 +7,6 @@ Then it will print out the hash and allow you to enter other passwords that will
 
 ## Instructions 
 1. Clone the  repo 
-2. Open the project and run hashing.py with python 3
-3. Enter a password and it will print the hash of the password
+2. install the argon2-cffi 20.1.0 by running `pip install argon2-cffi` or a different way https://pypi.org/project/argon2-cffi/
+3. run hashing.py with python 3
+4. Enter a password and it will print the hash of the password
